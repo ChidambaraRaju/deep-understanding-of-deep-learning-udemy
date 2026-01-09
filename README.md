@@ -115,10 +115,7 @@ This structure will grow as I progress through the course.
 
 ## 📌 Progress Status
 
-✔ Started the course  
-🔄 Continuous updates as I complete modules  
-⭐ Code-Challenges and Projects will be added consistently  
-
+✔ Completed the Course
 ---
 
 ## 📘 Credits
